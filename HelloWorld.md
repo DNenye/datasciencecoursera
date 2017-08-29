@@ -1,4 +1,4 @@
-## Peer Project Markdown File.
+## Peer Review Project Markdown File.
 This is a _markdown_ file.
 A *markdown* file is a text file written with the markdown syntax. It may have a .md extension.
 Markdown is a **markup** language. It is designed such that it converted to other formats easily.
@@ -15,7 +15,10 @@ It is used to create readme/meta files. Such files are useful for the instructio
 > Blocquotes
 ``` javascript
 var x
-` code blocks
+```
+
+`A code block `
+
 | Tables | and | The likes|
 |---|--- | ---|
 | Left Alignment| Right Alignment| Right Alignment|
