@@ -19,11 +19,12 @@ Code Blocks
 var x
 ```
 `A code block `
+
 Tables
 
 | Tables | and | The likes|
-|---|---: | :---:|
-| Left Alignment| Right Alignment| Right Alignment|
+|:--- | ---: | :---:|
+| Left Alignment| Right Alignment| Centre Alignment|
 
 + Links and images can also be added
 
