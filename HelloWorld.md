@@ -7,22 +7,23 @@ It is used to create readme/meta files. Such files are useful for the instructio
 ### Advantages of Markdown
 1. Easy syntax
 2. Easily convertible
-*NB: I am still a beginner but I can testify that it is relatively easy and straightforward to use
+* NB: I am still a beginner but I can testify that it is relatively easy and straightforward to use
 + This is testing unordered lists
 - Another point
 
 ### Other things that can be done
-> Blocquotes
+> Blockquote like this
+
+Code Blocks
 ``` javascript
 var x
 ```
-
 `A code block `
+Tables
 
 | Tables | and | The likes|
-|---|--- | ---|
+|---|---: | :---:|
 | Left Alignment| Right Alignment| Right Alignment|
-|--- | ---:| :---:|
 
 + Links and images can also be added
 
